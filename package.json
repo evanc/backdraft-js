@@ -1,0 +1,19 @@
+{
+  "name": "backdraft-js",
+  "version": "0.0.1",
+  "description": "Turn Draft.js RawDraftContentState into markup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "draftjs"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.5.1"
+  },
+  "devDependencies": {
+    "expect": "^1.14.0"
+  }
+}
